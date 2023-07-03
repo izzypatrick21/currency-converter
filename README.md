@@ -1,6 +1,6 @@
 # Currency Converter
 
-![Screenshot](currency_converter_cover_photo.png)
+![Screenshot](img/currency_converter_cover.png)
 
 <p>
     Currency converter for some popular currencies. 
